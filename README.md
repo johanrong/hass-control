@@ -1,4 +1,4 @@
-# Room Control through phone
+# Room Control Panel (Work in progress)
 - Room Control Panel that can control lights, temperature and such through a simple app.
 
 ## Ideas
