@@ -18,5 +18,7 @@
 - Home assistant
 - Something that can interact with home assistant through js
 
-## Checklist/TODO
-- [ ] something
+## Checklist/TODO  (may eventaully be divided into segments)
+- [ ] Home assistant integration and functionality
+- [ ] Design and ui and stuff
+- [ ] Housing
