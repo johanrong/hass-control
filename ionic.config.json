@@ -1,0 +1,8 @@
+{
+  "name": "room-control-panel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "6a5c322e"
+}
